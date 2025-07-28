@@ -5,7 +5,7 @@ A comprehensive, Excel-style color picker component for C# WinForms applications
 ## ✨ Demo
 
  
-*(This is a placeholder for a real GIF/screenshot of your control in action)*
+<img src="Screenshot.jpg" alt="PDF/A-1a Compliant Output">
 
 ## 🚀 Features
 
