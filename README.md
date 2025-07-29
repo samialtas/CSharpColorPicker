@@ -24,11 +24,11 @@ A comprehensive, Excel-style color picker component for C# WinForms applications
 
 ## 🛠️ Getting Started
 
-###📋 Prerequisites
+## 📋 Prerequisites
 
 You need a .NET project with Windows Forms support. This component has been designed with .NET Framework 4.x or .NET 5/6/7/8 and later in mind.
 
-### ⚙️ Installation
+## ⚙️ Installation
 
 1.  Clone this repository or download the source code.
 2.  Add the C# source files (`ExcelColorPopupButton.cs`, `ExcelColorDropDownControl.cs`, etc.) to your WinForms project.
